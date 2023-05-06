@@ -1,11 +1,14 @@
-import 'normalize-css';
+import { Footer } from './components/Footer/Footer';
+import { Header } from './components/Header/Header';
+import { Main } from './components/Main/Main';
 
-function App() {
+export const App = () => {
 	return (
-		<div className="App">
-			Create project
-		</div>
+		<>
+			<Header />
+			<Main />
+			<Footer />
+		</>
 	);
 }
 
-export default App;

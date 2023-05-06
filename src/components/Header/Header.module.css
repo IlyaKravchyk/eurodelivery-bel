@@ -1,0 +1,19 @@
+.header {
+	padding: 10px 0;
+	background: url(../../assets/img/header/promo.jpg) no-repeat 50% 50%;
+	background-size: cover;
+	min-height: 100vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-shadow: 2px 2px 5px #000;
+	justify-content: center;
+}

@@ -1,0 +1,33 @@
+.logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logoWrapper {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	box-shadow: 0px 0px 3px #000;
+	overflow: hidden;
+	background-color: #ff0000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+.logoLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Imagelogo {
+	width: 28px;
+}
+
+.text {
+	margin-left: 15px;
+	text-transform: uppercase;
+}

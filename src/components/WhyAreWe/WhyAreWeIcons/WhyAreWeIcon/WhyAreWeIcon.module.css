@@ -1,0 +1,28 @@
+.item {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.wrapper {
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	border-radius: 50%;
+	background-color: #ff0000;
+	margin-bottom: 35px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 0 0 3px #000;
+}
+
+.image {
+	width: 60px;
+}
+
+.descripton {
+	font-weight: 500;
+	font-size: 20px;
+}
