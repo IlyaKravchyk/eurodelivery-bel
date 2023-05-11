@@ -1,0 +1,24 @@
+.wrapper {
+	font-size: 42px;
+	text-align: center;
+	background-color: #f5f2ed;
+	padding: 60px 0 75px 0;
+}
+
+.text {
+	font-size: 42px;
+}
+
+.instLink {
+	font-size: 42px;
+	border-bottom: 2px solid #000;
+	-moz-border-image: -moz-linear-gradient(left, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+	-webkit-border-image: -webkit-linear-gradient(left, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+	border-image-slice: 1;
+
+
+	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}

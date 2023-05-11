@@ -1,0 +1,17 @@
+.list {
+	margin-bottom: 40px;
+	padding-left: 25px;
+}
+
+.text {
+	font-size: 20px;
+	position: relative;
+}
+
+.text::before {
+	font-family: fontawesome;
+	content: '\f00c';
+	color: #04eb0b;
+	position: absolute;
+	left: -25px;
+}

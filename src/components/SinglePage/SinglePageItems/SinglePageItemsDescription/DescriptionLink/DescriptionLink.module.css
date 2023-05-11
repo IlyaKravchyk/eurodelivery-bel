@@ -1,0 +1,9 @@
+.url, .text {
+	font-size: 14px;
+}
+
+.url {
+	color: #ff8562;
+	margin-right: 5px;
+	font-weight: 300;
+}

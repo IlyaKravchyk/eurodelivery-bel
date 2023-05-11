@@ -1,0 +1,27 @@
+.wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-top: 100px;
+	cursor: auto;
+}
+
+.items {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	position: relative;
+	z-index: 2;
+}
+
+.itemsImage {
+	width: calc(50% - 20px);
+	overflow: hidden;
+	max-height: 560px;
+	border-radius: 20px;
+}
+
+.itemsImage img {
+	width: 100%;
+	border-radius: 20px;
+	object-fit: cover;
+}

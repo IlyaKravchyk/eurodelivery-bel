@@ -5,7 +5,7 @@ import { WhyAreWeIcons } from "./WhyAreWeIcons/WhyAreWeIcons";
 
 export const WhyAreWe = () => {
 	return (
-		<section className={style.WhyAreWe}>
+		<section className={style.WhyAreWe} id="scroll" >
 			<Container>
 				<Title />
 				<WhyAreWeIcons />

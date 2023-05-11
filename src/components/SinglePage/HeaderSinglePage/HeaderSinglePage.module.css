@@ -1,0 +1,23 @@
+.header {
+	padding: 20px;
+	margin-bottom: 40px;
+	position: fixed;
+	width: 100%;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.description {
+	opacity: .8;
+	cursor: pointer;
+}
+
+.description::before {
+	font-family: fontawesome;
+	content: "\f177";
+	margin-right: 15px;
+}

@@ -1,0 +1,10 @@
+.wrapper {
+	color: #fff;
+	font-size: 14px;
+	font-weight: 700;
+	background-color: #000;
+	padding: 10px 30px;
+	margin-bottom: 20px;
+	border-radius: 30px;
+	display: inline-block;
+}
