@@ -4,12 +4,12 @@ import 'normalize-css';
 import './styles/font-awesome.min.css'
 import './styles/index.css'
 import { App } from './App';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-	<BrowserRouter>
+	<HashRouter>
 		<App />
-	</BrowserRouter>
+	</HashRouter>
 );
 
