@@ -31,3 +31,9 @@
 	margin-left: 15px;
 	text-transform: uppercase;
 }
+
+@media(max-width:767px) {
+	.logo {
+		margin-bottom: 25px;
+	}
+}

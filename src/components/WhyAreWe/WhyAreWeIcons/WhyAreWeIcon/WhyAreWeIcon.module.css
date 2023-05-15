@@ -1,7 +1,7 @@
 .item {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
+	justify-content: stretch;
 	align-items: center;
 	width: 33.33%;
 }
@@ -16,7 +16,6 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	box-shadow: 0 0 3px #000;
 }
 
 .image {
@@ -24,6 +23,17 @@
 }
 
 .descripton {
+	text-align: center;
 	font-weight: 500;
 	font-size: 20px;
+}
+
+@media(max-width:767px) {
+	.item:not(:last-child) {
+		margin-bottom: 30px;
+	}
+
+	.item {
+		width: 100%;
+	}
 }

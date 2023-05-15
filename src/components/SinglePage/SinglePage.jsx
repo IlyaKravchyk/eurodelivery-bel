@@ -21,7 +21,6 @@ export const SinglePage = () => {
 		<div className={style.singlePage} onClick={clickHandler}>
 			<div className={style.wrapper}>
 				<HeaderSinglePage />
-
 				<Container>
 					<SinglePageItems
 						thisDataPage={thisDataPage}

@@ -1,0 +1,35 @@
+.title {
+	font-size: 46px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 105px;
+	font-weight: 400;
+	text-align: center;
+}
+
+@media(max-width:1130px) {
+	.title {
+		margin-bottom: 80px;
+	}
+}
+
+@media(max-width:767px) {
+	.title {
+		font-size: 38px;
+	}
+}
+
+@media(max-width:650px) {
+	.title {
+		font-size: 30px;
+		margin-bottom: 60px;
+	}
+}
+
+@media(max-width:585px) {
+	.title {
+		font-size: 26px;
+		margin-bottom: 30px;
+	}
+}

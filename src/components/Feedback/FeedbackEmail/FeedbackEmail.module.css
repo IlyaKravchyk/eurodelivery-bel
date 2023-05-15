@@ -12,3 +12,21 @@
 	color: #ff8562;
 	font-size: 24px;
 }
+
+@media(max-width:1130px) {
+	.text {
+		margin: 0 auto 60px;
+	}
+}
+
+@media(max-width:426px) {
+	.text {
+		font-size: 16px;
+		margin: 0 auto 20px;
+	}
+
+	.emailLink {
+		color: #ff8562;
+		font-size: 16px;
+	}
+}

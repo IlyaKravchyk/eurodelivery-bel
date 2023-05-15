@@ -1,3 +1,13 @@
 .feedback {
 	padding-top: 60px;
 }
+
+.description {
+	padding: 50px 25px 50px 50px;
+}
+
+@media(max-width:426px) {
+	.feedback {
+		padding: 40px 0 15px 0;
+	}
+}

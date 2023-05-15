@@ -1,0 +1,9 @@
+.shops {
+	margin-bottom: 50px;
+}
+
+@media(max-width:1185px) {
+	.shops {
+		margin-bottom: 30px;
+	}
+}

@@ -1,3 +1,15 @@
 .WhyAreWe {
 	margin-bottom: 120px;
 }
+
+@media(max-width:1130px) {
+	.WhyAreWe {
+		margin-bottom: 100px;
+	}
+}
+
+@media(max-width:767px) {
+	.WhyAreWe {
+		margin-bottom: 80px;
+	}
+}

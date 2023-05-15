@@ -9,3 +9,7 @@
 	object-position: right;
 	display: block;
 }
+
+@media(max-width:1165px) {
+	.imageContainer img {}
+}

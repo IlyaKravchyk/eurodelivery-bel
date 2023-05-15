@@ -8,7 +8,7 @@ export const ButtonArrow = () => (
 			to="scroll"
 			spy={false}
 			smooth={true}
-			offset={-95}
+			offset={-50}
 			duration={50}
 		>
 			<i className="fa fa-angle-down" aria-hidden="true"></i>

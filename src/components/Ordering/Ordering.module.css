@@ -3,3 +3,9 @@
 	justify-content: center;
 	background-color: #f5f2ed;
 }
+
+@media(max-width:1165px) {
+	.items {
+		flex-direction: column-reverse;
+	}
+}
