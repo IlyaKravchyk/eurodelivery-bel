@@ -93,7 +93,7 @@ export const shopData = [
 	},
 	{
 		"id": "2",
-		"urlImage": "https://i.ibb.co/6RqJStB/sneakers-Adidas.jpg",
+		"urlImage": "https://i.ibb.co/QKxjRVz/sneakers.jpg",
 		"title": "интернет-магазины кроссовок",
 		"category": "sneakers",
 		"links": [
@@ -395,7 +395,7 @@ export const shopData = [
 	},
 	{
 		"id": "6",
-		"urlImage": "https://i.ibb.co/2sJTYxy/electronics.jpg",
+		"urlImage": "https://i.ibb.co/s1kxmy6/ps5.jpg",
 		"title": "Интернет-магазины бытовой техники и электроники",
 		"category": "electronics",
 		"links": [

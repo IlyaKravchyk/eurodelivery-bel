@@ -1,3 +1,9 @@
 .description {
 	width: calc(50% - 20px);
 }
+
+@media(max-width:1020px) {
+	.description {
+		width: 100%;
+	}
+}

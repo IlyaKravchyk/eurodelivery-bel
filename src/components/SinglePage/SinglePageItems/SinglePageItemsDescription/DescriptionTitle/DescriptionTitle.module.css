@@ -4,9 +4,16 @@
 	font-weight: 400;
 	margin-bottom: 20px;
 	letter-spacing: 1.2px;
-
 }
 
 .title::first-letter {
 	text-transform: uppercase;
+}
+
+@media(max-width:768px) {
+	.title {
+		letter-spacing: normal;
+		text-align: center;
+		font-size: 20px;
+	}
 }

@@ -25,3 +25,34 @@
 	border-radius: 20px;
 	object-fit: cover;
 }
+
+@media(max-width:1020px) {
+	.items {
+		flex-direction: column;
+	}
+
+	.itemsImage {
+		width: 100%;
+		margin: 0 auto 30px auto;
+	}
+}
+
+@media(max-width:768px) {
+	.items {
+		flex-direction: column;
+	}
+
+	.itemsImage {
+		width: 100%;
+		max-width: 560px;
+		margin-bottom: 30px;
+	}
+}
+
+@media(max-width:425px) {
+
+
+	.itemsImage {
+		max-width: 360px;
+	}
+}

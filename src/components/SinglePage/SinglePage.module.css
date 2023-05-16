@@ -1,4 +1,10 @@
-.singlePage {
+.wrapper {
 	padding-bottom: 80px;
 	cursor: pointer;
+}
+
+@media(max-width:768px) {
+	.wrapper {
+		padding-bottom: 40px;
+	}
 }

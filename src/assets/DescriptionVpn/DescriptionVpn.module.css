@@ -7,4 +7,12 @@
 	margin-bottom: 20px;
 	border-radius: 30px;
 	display: inline-block;
+	text-align: center;
+}
+
+@media(max-width:768px) {
+	.wrapper {
+		font-weight: 400;
+		padding: 10px;
+	}
 }

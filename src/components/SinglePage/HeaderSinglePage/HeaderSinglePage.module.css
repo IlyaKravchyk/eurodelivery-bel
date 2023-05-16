@@ -1,7 +1,7 @@
 .header {
 	padding: 20px;
 	margin-bottom: 40px;
-	position: fixed;
+	position: absolute;
 	width: 100%;
 }
 
@@ -20,4 +20,22 @@
 	font-family: fontawesome;
 	content: "\f177";
 	margin-right: 15px;
+}
+
+@media(max-width:768px) {
+	.header {
+		position: fixed;
+		z-index: 100;
+		background-color: #fff;
+		border-bottom: 1px solid rgba(0, 0, 0, .1);
+	}
+
+	.description {
+		color: #fff;
+	}
+
+	.description::before {
+		color: #000;
+		font-size: 28px;
+	}
 }

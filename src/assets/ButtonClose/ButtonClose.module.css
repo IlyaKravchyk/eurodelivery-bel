@@ -2,3 +2,9 @@
 	display: inline-block;
 	cursor: pointer;
 }
+
+@media(max-width:768px) {
+	.button {
+		display: none;
+	}
+}
