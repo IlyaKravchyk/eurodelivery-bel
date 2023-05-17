@@ -4,7 +4,7 @@ export const FeedbackInstagram = () => {
 	return (
 		<div className={style.wrapper}>
 			<div className={style.text}>
-				Следите за нами в <Link className={style.instLink} to="https://www.instagram.com/" target="_blank">
+				Следите за нами в <Link className={style.instLink} to="https://instagram.com/eurodelivery.by?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
 					instagram
 				</Link>
 			</div>

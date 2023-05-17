@@ -9,7 +9,7 @@ export const FooterIcons = () => {
 	return (
 		<div className={style.icons}>
 			<h3 className={style.title}>Контакты:</h3>
-			<FooterIcon url='https://www.instagram.com/'>
+			<FooterIcon url='https://instagram.com/eurodelivery.by?igshid=NTc4MTIwNjQ2YQ=='>
 				<Instagram />
 			</FooterIcon>
 			<FooterIcon url='https://mail.ru/'>
