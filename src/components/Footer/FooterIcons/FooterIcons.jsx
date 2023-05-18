@@ -12,7 +12,7 @@ export const FooterIcons = () => {
 			<FooterIcon url='https://instagram.com/eurodelivery.by?igshid=NTc4MTIwNjQ2YQ=='>
 				<Instagram />
 			</FooterIcon>
-			<FooterIcon url='https://mail.ru/'>
+			<FooterIcon url='mailto:https://euro_delivery@mail.ru'>
 				<Email />
 			</FooterIcon>
 

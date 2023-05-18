@@ -5,6 +5,7 @@ import { Title } from '../../assets/Title/Title';
 
 import style from './Shops.module.css';
 
+
 export const Shops = () => {
 
 	return (
