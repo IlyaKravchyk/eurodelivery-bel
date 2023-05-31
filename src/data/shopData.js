@@ -305,6 +305,11 @@ export const shopData = [
 				"descriptionLink": "",
 				"id": "014"
 			},
+			{
+				"textLink": "https://wearmedicine.com/c/on",
+				"descriptionLink": "(модная одежда, премиум качества)",
+				"id": "015"
+			}
 		]
 	},
 	{
