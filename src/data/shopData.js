@@ -241,7 +241,7 @@ export const shopData = [
 				"id": "01"
 			},
 			{
-				"textLink": "https://gomez.pl/ ",
+				"textLink": "https://gomez.pl ",
 				"descriptionLink": "(одежда и обувь премиум)",
 				"id": "02"
 			},
@@ -251,22 +251,22 @@ export const shopData = [
 				"id": "03"
 			},
 			{
-				"textLink": "https://supersklep.pl/",
+				"textLink": "https://supersklep.pl",
 				"descriptionLink": "",
 				"id": "04"
 			},
 			{
-				"textLink": "https://modivo.pl/ ",
+				"textLink": "https://modivo.pl ",
 				"descriptionLink": "(работает через VPN)",
 				"id": "05"
 			},
 			{
-				"textLink": "https://www.ataf.pl/",
+				"textLink": "https://www.ataf.pl",
 				"descriptionLink": "",
 				"id": "06"
 			},
 			{
-				"textLink": "https://50style.pl/",
+				"textLink": "https://50style.pl",
 				"descriptionLink": "",
 				"id": "07"
 			},
@@ -281,27 +281,27 @@ export const shopData = [
 				"id": "09"
 			},
 			{
-				"textLink": "https://shop.mango.com/pl/",
+				"textLink": "https://shop.mango.com/pl",
 				"descriptionLink": "",
 				"id": "010"
 			},
 			{
-				"textLink": "https://www.vitkac.com/pl/",
+				"textLink": "https://www.vitkac.com/pl",
 				"descriptionLink": "",
 				"id": "011"
 			},
 			{
-				"textLink": "https://www.massimodutti.com/pl/",
+				"textLink": "https://www.massimodutti.com/pl",
 				"descriptionLink": "",
 				"id": "012"
 			},
 			{
-				"textLink": "https://streetsupply.pl/",
+				"textLink": "https://streetsupply.pl",
 				"descriptionLink": "",
 				"id": "013"
 			},
 			{
-				"textLink": "https://www.zalando.pl/",
+				"textLink": "https://www.zalando.pl",
 				"descriptionLink": "",
 				"id": "014"
 			},
@@ -309,6 +309,26 @@ export const shopData = [
 				"textLink": "https://wearmedicine.com/c/on",
 				"descriptionLink": "(модная одежда, премиум качества)",
 				"id": "015"
+			},
+			{
+				"textLink": "https://supreme.com",
+				"descriptionLink": "",
+				"id": "016"
+			},
+			{
+				"textLink": "https://www.farfetch.com",
+				"descriptionLink": "",
+				"id": "017"
+			},
+			{
+				"textLink": "https://www.vans.pl",
+				"descriptionLink": "",
+				"id": "018"
+			},
+			{
+				"textLink": "https://www.luisaviaroma.com/ru-it",
+				"descriptionLink": "",
+				"id": "019"
 			}
 		]
 	},
